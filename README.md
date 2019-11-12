@@ -1,0 +1,2 @@
+# Taipei-Housing-ML-Project
+In this project, we will develop and evaluate the performance and the predictive power of a model trained and tested on data collected from Taipei.  A model trained on this data, that is seen as a good fit, could then be used to predict the monetary value of a house located at the Taipei’s area. This model would prove to be valuable to for real estate agents who could make use of this information on a daily basis. 

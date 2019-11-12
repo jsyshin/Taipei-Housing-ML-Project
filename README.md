@@ -35,7 +35,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Project Report
 
-Report can be viewed at [**https://jsyshin.github.io/Taipei-Housing/**].
+Report can be viewed at https://github.com/jsyshin/Taipei-Housing-ML-Project
 
 ### Data
 

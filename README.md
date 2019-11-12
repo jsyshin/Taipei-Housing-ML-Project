@@ -35,7 +35,7 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Project Report
 
-Report can be viewed at [**https://maneeshd.github.io/boston-housing/**](https://maneeshd.github.io/boston-housing/).
+Report can be viewed at [**https://jsyshin.github.io/Taipei-Housing/**].
 
 ### Data
 

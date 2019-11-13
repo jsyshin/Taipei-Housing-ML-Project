@@ -39,7 +39,7 @@ Report can be viewed at https://github.com/jsyshin/Taipei-Housing-ML-Project
 
 ### Data
 
-The modified Boston housing dataset consists of 414 data points, with each datapoint having 3 features. This dataset is a modified version of the Taipei Housing dataset found on the [UCI Machine Learning Repository] https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+The modified Taipei housing dataset consists of 414 data points, with each datapoint having 3 features. This dataset is a modified version of the Taipei Housing dataset found on the [UCI Machine Learning Repository] https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 
 **Features**
 X2=the house age (unit: year)
